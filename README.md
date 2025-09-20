@@ -1,3 +1,6 @@
+git clone https://github.com/meseretak/Week-8-Assignment-Final-Project.git
+cd Week-8-Assignment-Final-Project
+
 API Endpoints
 
 Products
